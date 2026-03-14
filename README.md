@@ -66,11 +66,13 @@ Always use the --name flag to specify your wallet: ord wallet --name my_inscript
 🌐 Official Resources
 Website: aureuscoin.site
 
+Explore : explore.aureuscoin.site
+
 Ord Explorer: ord.aureuscoin.site
 
-Core GitHub: Aureus Core
+Core GitHub: https://github.com/sipherapex/aureus-core
 
-Rust Library: Aureus Rust Lib
+Rust Library: https://github.com/sipherapex/rust-bitcoin-aureus
 
 💰 Support the Research
 Aureus Core and the AUR-20 Protocol are open-source and community-funded. Your donations support server costs, development, and the expansion of the Aureus Empire.
@@ -87,5 +89,7 @@ Join the sovereign movement and chat with fellow researchers:
 Discord: https://discord.gg/gfaFPDxnqS
 
 Telegram: https://t.me/AUREUS_AUR
+
+X : https://x.com/sipher_apex
 
 Stay Sovereign. Stay Aureus. 🔱
