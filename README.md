@@ -19,7 +19,7 @@
 </div>
 
 <br>
-
+https://ord.aureuscoin.site
 `AUR-20` is an index, block explorer, and command-line wallet specifically engineered for the **Aureus Core ($AURE)** SHA-256 blockchain. It implements the **Ordinal Theory** for Aureus, enabling the inscription of digital artifacts and the deployment of Runes on a secure Layer-1.
 
 > **Warning:** AUR-20 is highly technical and experimental software. Use it at your own risk.
