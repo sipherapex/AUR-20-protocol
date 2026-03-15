@@ -146,7 +146,7 @@ impl Batch {
 
     let reveal_height = current_height + u32::from(Runestone::COMMIT_CONFIRMATIONS);
 
-    let first_rune_height = Rune::first_rune_height(wallet.chain().into());
+    let first_rune_height = 0;
 
     ensure!(
       reveal_height >= first_rune_height,

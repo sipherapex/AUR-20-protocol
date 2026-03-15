@@ -407,7 +407,7 @@ inscriptions:
             amount: "100.00".parse().unwrap(),
             cap: 90,
             height: Some(batch::Range {
-              start: Some(840000),
+              start: Some(0),
               end: Some(850000),
             }),
             offset: Some(batch::Range {
