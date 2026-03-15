@@ -349,7 +349,7 @@ impl Updater<'_> {
       )?;
     }
 
-    if self.index.index_runes && self.height >= self.index.settings.first_rune_height() {
+    if self.index.index_runes && self.height >= 0 {
       let mut outpoint_to_rune_balances = wtx.open_table(OUTPOINT_TO_RUNE_BALANCES)?;
       let mut rune_id_to_rune_entry = wtx.open_table(RUNE_ID_TO_RUNE_ENTRY)?;
       let mut rune_to_rune_id = wtx.open_table(RUNE_TO_RUNE_ID)?;
